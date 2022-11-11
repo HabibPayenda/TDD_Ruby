@@ -4,10 +4,11 @@ describe Solver do
   context 'Testing the Solver#fizzbuzz' do
     solver = Solver.new
 
-    it 'should return "0"' do
+    it 'should return "4"' do
       value = 0
       result = solver.fizzbuzz(value)
-      expect(result).to eq '0'
+      puts result
+      expect(result).to eq 'fizzbuzz'
     end
 
     it 'should return "fizz"' do
