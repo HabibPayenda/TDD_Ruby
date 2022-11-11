@@ -27,6 +27,5 @@ describe Solver do
       result = solver.factorial(value)
       expect(result).to eq 6
     end
-
   end
 end
