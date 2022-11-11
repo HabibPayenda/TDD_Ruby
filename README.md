@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# ruby_school_library
-This project is a school library developed to record what books are in the library and who borrows them. It can also be used to add new students or teachers, add new books and save the records of who borrowed a given book and when.
+# Test Driven Development in Ruby
+This project is a based on the TDD principles where we first write the test of the program then write the actual code for the program.
 
 ## Getting Started
 **Please follow the steps below to setup this project in your local computer
